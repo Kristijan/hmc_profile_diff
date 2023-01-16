@@ -1,0 +1,19 @@
+---
+# List of HMC's to search
+hmcs:
+  # - hmc1
+  # - hmc2
+
+# Enable/Disable specific checks (True/False)
+compare_general: True
+compare_processors: True
+compare_memory: True
+compare_networking: True
+compare_virtual_fc: True
+compare_virtual_scsi: True
+
+# HMC SSL certificate verification (True/False)
+ssl_verify: True
+
+# Debug output (True/False)
+debug: False

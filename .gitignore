@@ -1,0 +1,6 @@
+hmc_prof_diff/common/debug/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.vscode/
